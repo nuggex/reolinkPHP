@@ -1,0 +1,10 @@
+; address, IP or hostname of the Reolink camera
+host = ""
+
+; username
+username = ""
+
+; password
+password = ""
+
+
