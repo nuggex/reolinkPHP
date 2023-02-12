@@ -1,5 +1,9 @@
 # Reolink API Connector using GuzzleHTTP
 
+Tested on a Reolink E1 Outdoor with firmware v3.1.0.804_22011506
+
+Image downloader script will work on any camera, control only on PTZ enabled cameras.
+
 ## Source for api usage 
 
 I used this documentation of the Reolink API https://docs.google.com/document/d/10Ec4sRt8S4RC1L7w662UVTCHuihktO2d/edit to create this project.
