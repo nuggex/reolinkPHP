@@ -77,7 +77,6 @@ class reoLink
         $presets = array();
         foreach ($list->PtzPreset as $preset) {
             if ($preset->enable == 1) {
-                print_r($preset);
                 $presets[] = $preset;
             }
         }
