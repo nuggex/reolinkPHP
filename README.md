@@ -2,9 +2,9 @@
 
 ## Requirements
 
-PHP8
-GuzzleHTTP
-ffmpeg for Image saving
+PHP8  
+GuzzleHTTP  
+ffmpeg for Image saving  
 
 ## Installation
 
@@ -18,8 +18,9 @@ Run composer update to install GuzzleHTTP
 ## Usage
 
 ### WARN 
-Due to Reolink using a self-signed certificate for HTTPS we have to set verify = false when sending requests with HTTPS. 
-As long as you run this in a contained network this shouldn't be an issue. You can fix this by getting a valid certificate for your camera with LetsEncrypt or similar.
+Due to Reolink using a self-signed certificate for HTTPS we have to set verify = false when sending requests with HTTPS.   
+As long as you run this in a contained network this shouldn't be an issue.  
+You can fix this by getting a valid certificate for your camera with LetsEncrypt or similar.
 
 
 ### Control.php
