@@ -41,9 +41,12 @@ Return type can be selected, defaults to statusCode.
 
 
 
-### Bash script
+### ptzGetSnapshot.sh Bash script
 
-Included is a bash script template that moves the camera to a predefined preset and sleeps for 20 seconds before taking a snapshot and saving it to disk.
+Included is a bash script template that moves the camera to a predefined preset and sleeps for 20 seconds before taking a snapshot and saving it to disk.  
+
+Intended use for this is to move the camera to another preset than your default Guard Point and take an image.
+
 This script requires FFMPEG to work. 
 
 Included also an upload with sftp to remote server, this requires that you have set up a keypair for authentication.
