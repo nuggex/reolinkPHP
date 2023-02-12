@@ -1,5 +1,9 @@
 # Reolink API Connector using GuzzleHTTP
 
+## Source for api usage 
+
+I used this documentation of the Reolink API https://docs.google.com/document/d/10Ec4sRt8S4RC1L7w662UVTCHuihktO2d/edit to create this project.
+
 ## Requirements
 
 PHP8  
