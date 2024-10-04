@@ -2,7 +2,7 @@
 
 Tested on a Reolink E1 Outdoor with firmware v3.1.0.804_22011506
 
-Image downloader script will work on any camera, control only on PTZ enabled cameras.
+Image downloader script will (probably) work on any camera, control only on PTZ enabled cameras.
 
 ## Source for api usage 
 
@@ -16,7 +16,7 @@ ffmpeg for Image saving
 
 ## Installation
 
-Make a copy of config.ini.template and insert username, password and hostname.  
+Make a copy of config.ini.template as config.ini and insert username, password and hostname.  
 Hostname should be a LAN adress of the camera, I have not tested this over WAN.
 
 Configure Parameters in ptzGetSnapShot.php
